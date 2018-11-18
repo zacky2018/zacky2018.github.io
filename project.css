@@ -1,0 +1,72 @@
+body {
+  background-image: url(unsplash2.jpg);
+  background-size: cover;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 150px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #172457;
+  cursor: progress;
+}
+
+h1:hover {
+  color: #F05F44;
+  transform: scale(1.1);
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn {
+  background-color: blue;
+  border-radius: 300px;
+  text-transform: uppercase;
+  box-shadow: 5px solid purple;
+  cursor: pointer;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.col {
+  text-align: center;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  transform: scale(1.1);
+}
+
+btn-xl:hover {
+  transform: scale(1.1);
+}
+
+footer {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  cursor: progress;
+  padding: 200px;
+}
+
+.btn-outline-primary {
+  color: white;
+}
+
+.nav-link {
+  font-family: Times New Roman;
+  font-size: 22px;
+  color: #ee4b08;
+}
+
+.navbar-brand {
+  font-family: Times New Roman;
+  font-size: 22px;
+}
+
+.navbar-dark {
+  color: #ee4b08;
+}
